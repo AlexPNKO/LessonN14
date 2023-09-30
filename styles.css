@@ -1,0 +1,33 @@
+/* -lesson-task-1-
+html {
+        font-size: 18px;
+      }
+      .properties-list__item {
+        color: #f39;
+        font-size: 24px;
+        line-height: 32px;
+        padding: 8px;
+      }
+      .properties-list {
+        list-style: none;
+      } */
+/* -lesson-task-2-
+.rectangle {
+        background-color: blueviolet;
+        width: 100px;
+        height: 100px;
+      }
+
+      .text {
+        font-size: 18px;
+        line-height: 24px;
+      }
+
+      .text::first-letter {
+        color: green;
+        font-size: 24px;
+      }
+
+      .new {
+        color: grey;
+      } */
